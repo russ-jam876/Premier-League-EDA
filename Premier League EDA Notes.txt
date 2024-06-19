@@ -1,0 +1,25 @@
+Premier League EDA Notes
+
+Context: Basic information on the 2017/18 Premier League campaign.
+- Winners: Man City
+- Significance of the season (100 pts)
+
+Import important libraries: numpy, pandas, matplotlib.pyplot, seaborn
+
+Import datasets: players, matchday
+
+Brief analysis on matchday dataset:
+- Look at total goals scored across the campaign
+- Look at total bookings given
+- Look at home/away win percentage
+- etc.
+
+Brief analysis on players dataset:
+- Look at top 10 goals scorers (bar graph)
+- Look at top 10 assist makers (bar graph)
+- Look at top 10 clean sheets (bar graph)
+- Look at top 10 tackle success % (bar graph)
+- Look at top 10 saves (bar graph)
+- Look at duels won, duels lost percentage (pie graph)
+- Look at ariel battles won, ariel battles lost (pie graph)
+- Big chances created vs big chances missed
